@@ -6,7 +6,6 @@ on:
       text_input:
         description: "Text dari Google Sheet"
         required: true
-        default: "Hello World"
 
 jobs:
   generate-video:
